@@ -1,6 +1,5 @@
-<h1>Hello!</h1>
-- 👋 Hi, I’m @lturr07 <br>
-- 👀 I’m interested in c++ (Arduino: Attiny85 Payloads), Ethical Hacking (Kali Linux: Msfvenom (Reverse Shells), Password Cracking) <br>
-- 🌱 I’m currently learning c++ Arduino <br>
-- 💞️ I’m looking to collaborate on Attiny85 Payloads <br>
-- 📫 How to reach me: Currently I'm not wanting to be contacted ;) <br>
+<h1>Attiny85 Payloads!</h1>
+Here I will post my personal projects especially for the Attiny85 using the Arduino IDE software. These payloads will be about a variety of different topics ;)
+Navigate to these projects through the [Payloads] folder.<br>
+<h2>Usability</h2>
+if using these projects publicly (advertising it and claiming it as your own, or posting it yourself) Please just give credit. it will be greatly appreciated!<br>
