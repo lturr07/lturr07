@@ -1,4 +1,4 @@
 <h1>Hello!</h1>
 - 👋 Hi, I’m @lturr07 <br>
-- 👀 I’m interested in c++ (Arduino: Attiny85 Payloads), Ethical Hacking (Kali Linux: Msfvenom (Reverse Shells), Password Cracking) <br>
-- 🌱 I’m currently learning c++ Arduino <br>
+- 👀 I’m interested in Machine Learning, Physics, Game Development and general coding!<br>
+- 🌱 I’m currently learning Python, Java, Javascript and PHP <br>
