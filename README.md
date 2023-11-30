@@ -14,6 +14,6 @@ print(FormatNicely(KnowledgeBase))
 
   'Know a bit about' : ['HTML', 'CSS', 'Javascript', 'Git'],
 
-  'Intrested in' : ['Machine Learning', 'Physics', 'Game Development', 'General Coding', 'Cyber Security']
+  'Interested in' : ['Machine Learning', 'Physics', 'Game Development', 'General Coding', 'Cyber Security']
 }
 ```
