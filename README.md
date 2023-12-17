@@ -3,17 +3,32 @@
 Hi, I'm Luca and I am a passionate student towards anything to do with coding.
 
 ```python
-KnowledgeBase = list(filter(CodingRelated, RawData))
-print(FormatNicely(KnowledgeBase))
+# Python
+import json
+print(json.dumps(KnowledgeBase(coding_related=True), indent=4))
 ```
 ```python
 {
-  'Confident in' : ['Python', 'Selenium (MODULE)', 'DOM Selectors (HTML)'],
-
-  'Learning' : 'C++',
-
-  'Know a bit about' : ['HTML', 'CSS', 'Javascript', 'Git'],
-
-  'Interested in' : ['Machine Learning', 'Physics', 'Game Development', 'General Coding', 'Cyber Security']
+    'Confident in': [
+        'Python',
+        'Selenium (MODULE)',
+        'DOM Selectors (HTML)'
+    ],
+    'Learning': [
+        'C++',
+        'Physics',
+        'Game Development',
+        'Git'
+    ],
+    'Know a bit about': [
+        'HTML',
+        'CSS',
+        'Javascript'
+    ],
+    'Interested in': [
+        'Machine Learning',
+        'General Coding',
+        'Cyber Security'
+    ]
 }
 ```
